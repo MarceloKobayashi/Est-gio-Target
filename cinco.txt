@@ -1,0 +1,9 @@
+5) Primeiro você liga o interruptor 1 e deixa ele ligado por 5 minutos, até esquentar. Depois você apaga o interruptor
+    1 e liga o interruptor 2 e vai para a sala onde a lâmpada A está. Se a lâmpada A estiver ligada, o interruptor 2
+    ligou a lâmpada A, se ela estiver desligada, toque na lâmpada A, se ela estiver quente, o interruptor 1 liga a 
+    lâmpada A, se estiver fria, o interruptor 3 liga a lâmpada A. Assim, é possível eliminar um interruptor. Volte para
+    a sala com os interruptores e ligue algum que não seja o eliminado na primeira situação, para facilitar vamos supor
+    que o interruptor 1 liga a lâmpada A. Portanto ligue o interruptor 2 e vá para a sala da lâmpada B, se ela estiver
+    ligada, o interruptor 2 liga a lâmpada B, senão, o interruptor 3 liga a lâmpada B. Ao fazer isso, apenas um 
+    interruptor ficará sobrando e será possível resolver o problema de qual interruptor liga qual lâmpada com apenas
+    duas idas até a sala das lâmpadas.
